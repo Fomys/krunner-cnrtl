@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Définitions CNRTL
+Comment=Rust runner test
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=internet-web-browser
+X-KDE-PluginInfo-Author=Louis Chauvet
+X-KDE-PluginInfo-Email=louis.chauvet@free.fr
+X-KDE-PluginInfo-Name=dbusrunnertest
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=net.rust
+X-Plasma-DBusRunner-Path=/
